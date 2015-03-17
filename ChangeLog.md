@@ -1,0 +1,23 @@
+# gwt-diagrams-0.1 #
+  * #13 Bezier/straight connections doesn't work on IE6.0
+
+
+# gwt-diagrams-0.1-RC03 #
+  * #9 Straight connections
+  * #11 Extend demo/examples ('Diagrams builder')
+    * Bezier/Straight - canvas remove bug fixed
+    * Bezier/Straight - canvas z-index bug fixed
+
+
+# gwt-diagrams-0.1-RC02 #
+  * #3 Cross browser tests and bug fixes:
+    * Opera 9 (win) tested and bug fixed
+    * Safari 3 (win) tested and bug fixed
+  * #6 Exception: Illegal state for right angled connection
+  * #7 FullRectilinearTwoEndedCalculator situation logged in hosted mode as ??
+
+
+# gwt-diagrams-0.1-RC01 #
+
+  * Base structures (Connector, Connection, ConnectionDataCalculator, ...)
+  * Functionality (RectilinearTwoEndedConnection, BezierTwoEndedConnection)

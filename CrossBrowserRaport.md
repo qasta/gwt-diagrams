@@ -1,0 +1,32 @@
+# Full tests #
+
+| **Browser** | **Rectilinear** | **Bezier** | **Straight** |
+|:------------|:----------------|:-----------|:-------------|
+| IE 6.0 (6.0.2900.2180) | + | + | + |
+| IE 7.0 (7.0.5730.11) | + | + | + |
+| FF 2.0 (2.0.0.9, 2.0.0.11) | + | + | + |
+| Opera 9 (9.24) | + | + | + |
+| Safari 3 (3.0.4 win, mac) | + | + | + |
+
+# Browsershots tests #
+  * http://browsershots.org/
+  * [rectilinear](http://browsershots.org/http://kolos.math.uni.lodz.pl/%7Ebalon/gwt-diagrams-demo/pl.balon.gwt.diagramsexample.GwtDiagramsExample/GwtDiagramsExample.html?tab=0)
+  * [bezier](http://browsershots.org/http://kolos.math.uni.lodz.pl/~balon/gwt-diagrams-demo/pl.balon.gwt.diagramsexample.GwtDiagramsExample/GwtDiagramsExample.html?tab=1)
+  * [straight](http://browsershots.org/http://kolos.math.uni.lodz.pl/~balon/gwt-diagrams-demo/pl.balon.gwt.diagramsexample.GwtDiagramsExample/GwtDiagramsExample.html?tab=2)
+
+| **Browser** | **Rectilinear** | **Bezier** |
+|:------------|:----------------|:-----------|
+| _**FF 2.0.0.9**_ | + | + |
+| _**FF 1.5**_ | + | + |
+| FF 1.0.8 | + | - |
+| _**IE 7.0**_ | + | + |
+| _**IE 6.0**_ | + | + |
+| IE 5.5 | - | - |
+| IE 5.0.1 | - | - |
+| _**Safari 3.0.2 (win)**_ | + | + |
+| _**Safari 3.0.4 (mac)**_ | + | + |
+| Safari 2.0.4 | + | N/A |
+| Safari 1.3.2 | + | - |
+| _**Opera 9.24**_ | + | + |
+| Opera 8.54 | N/A | - |
+| Konqueror 3.5 | - | - |
